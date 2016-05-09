@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace GitSourceControlProvider
 {
-    class Class1
+    class Class2
     {
-        public long ID { get; set; }
     }
 }
