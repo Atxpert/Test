@@ -9,5 +9,7 @@ namespace GitSourceControlProvider
     class Class2
     {
         //Additional Feature 1.1
+
+        //master changes
     }
 }
