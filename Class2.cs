@@ -10,6 +10,8 @@ namespace GitSourceControlProvider
     {
         //Additional Feature 1.1
 
+        //these changes will be stashed
+
         //master changes
     }
 }
