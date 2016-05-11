@@ -8,5 +8,6 @@ namespace GitSourceControlProvider
 {
     class Class2
     {
+        //changes in Feature 1.2
     }
 }
