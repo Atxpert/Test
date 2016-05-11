@@ -17,5 +17,7 @@ namespace GitSourceControlProvider
         //New project changes VS Tools for Git
 
         //save new changes in GitHub online
+
+        //ok
     }
 }
